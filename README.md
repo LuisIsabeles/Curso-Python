@@ -1,5 +1,1 @@
-# hola-mundo
-aprendiendo python
-
-Autor: Luis
-Fecha
+print('Hola!, Bienvenido')
